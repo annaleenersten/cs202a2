@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@600&display=swap');
+
+header{
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 1.5em;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+}
+body div{
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.2em;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+body nav a{
+    font-family: 'Indie Flower', cursive;
+    color: azure;
+    background-color: black;
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size: 1.3em;
+}
+body nav{
+    text-align: center;
+}
+.left{
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+.left img{
+    width: 75%;
+    border: 0.25em solid black;
+}
+.right{
+    float: right;
+    width: 50%;
+    text-align: center;
+}
+.right img{
+    width: 75%;
+    border: 0.25em solid black;
+}
+#homeNav a{
+    color: black;
+}
+#flowers img{
+    height: 16em;
+}
+#flowers p{
+    font-size: 1.5em;
+    padding-top: 0.5em;
+}
